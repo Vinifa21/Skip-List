@@ -1,0 +1,3 @@
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/3° Semestre/AED2/Skip_list/cmake-build-debug/CMakeFiles/Skip_list.dir
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/3° Semestre/AED2/Skip_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/azaza/OneDrive/Área de Trabalho/UFSCar/3° Semestre/AED2/Skip_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

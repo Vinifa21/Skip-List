@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Skip_list",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Skip_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Skip_list-Debug-fccafd902348bcf2c321.json",
+					"name" : "Skip_list",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/azaza/OneDrive/\u00c1rea de Trabalho/UFSCar/3\u00b0 Semestre/AED2/Skip_list/cmake-build-debug",
+		"source" : "C:/Users/azaza/OneDrive/\u00c1rea de Trabalho/UFSCar/3\u00b0 Semestre/AED2/Skip_list"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
